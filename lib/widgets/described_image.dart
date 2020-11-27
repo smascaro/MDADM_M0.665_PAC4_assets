@@ -52,7 +52,7 @@ class DescribedImage extends StatelessWidget {
   Text buildDescription() {
     return Text(
       _imageDescription,
-      style: TextStyle(fontSize: 16, color: Colors.grey[700]),
+      style: TextStyle(fontSize: 16, color: Colors.grey[700], fontStyle: FontStyle.italic),
     );
   }
 }
