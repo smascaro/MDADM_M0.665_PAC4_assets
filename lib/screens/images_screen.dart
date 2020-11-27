@@ -23,7 +23,7 @@ class ImagesScreen extends StatelessWidget {
               "Where I currently live. (image: La Rambla)"),
           DescribedImage(AssetsLoader.utrechtImage, "Utrecht 🇳🇱", "Where I will soon live."),
           DescribedImage(
-              AssetsLoader.lakeBledImage, "Lake Bled 🇸🇮", "Small trip last year, beautiful place!"),
+              AssetsLoader.lakeBledImage, "Lake Bled 🇸🇮", "Short trip last year, beautiful place!"),
         ],
       ),
     );
